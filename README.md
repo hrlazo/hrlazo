@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Heriberto Lazo</h1>
 <h3 align="center">Desarrollador FullStack</h3>
 
-- 🔭 Actualmente estoy desarrollando distintos proyectos para mejorar como desarrollador **actualmente estoy trabajando en un copycat de netflix**
+- 🔭 Actualmente estoy desarrollando distintos proyectos para mejorar mi portafolio profesional. **actualmente estoy trabajando en un copycat de netflix**
 
 - 🌱 Estoy perfeccionando mi kit de habilidades en general a través de la creación de proyectos usando los stacks más populares **MERN y MEAN**
 
