@@ -1,5 +1,9 @@
 <h1 align="center">Hola 👋, mi nombre es Heriberto Lazo</h1>
-<h3 align="center">soy desarrollador FullStack</h3>
+<h3 align="center">Desarrollador FullStack</h3>
+
+- 🔭 Actualmente estoy desarrollando distintos proyectos para mejorar como desarrollador **actualmente estoy trabajando en una copycat de netflix**
+
+- 🌱 Estoy perfeccionando mi kit de habilidades en general a través de la creación de proyectos usando los stacks más populares **MERN, MEAN**
 
 - 📫 Contactame **heriberto.2473@gmail.com**
 
