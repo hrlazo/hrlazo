@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy desarrollando distintos proyectos para mejorar mi portafolio profesional. **actualmente estoy trabajando en un copycat de netflix**
 
-- 🌱 Estoy perfeccionando mi kit de habilidades en general a través de la creación de proyectos usando los stacks más populares
+- 🌱 Estoy perfeccionando mi kit de habilidades desarrollando distintos proyectos utilizando distintos stacks tecnológicos.
 
 - 📫 Contactame **heriberto.2473@gmail.com**
 
