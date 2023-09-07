@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, mi nombre es Heriberto Lazo</h1>
-<h3 align="center">Desarrollador FullStack</h3>
 
 - 🔭 Actualmente estoy desarrollando distintos proyectos para mejorar mi portafolio profesional. **actualmente estoy trabajando en un copycat de netflix**
 
